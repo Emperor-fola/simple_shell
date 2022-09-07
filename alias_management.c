@@ -1,4 +1,4 @@
-#iclude "shell.h"
+#include "shell.h"
 
 /**
  * print_alias - add, remove or show aliases
