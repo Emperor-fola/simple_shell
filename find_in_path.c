@@ -1,4 +1,4 @@
-#iclude "shell.h"
+#include "shell.h"
 
 int check_file(char *full_path);
 
